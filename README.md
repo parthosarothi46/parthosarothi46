@@ -62,6 +62,8 @@ Excited to keep growing and innovating! 🚀
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=parthosarothi46)](https://git.io/streak-stats)
 
+ <img align="left" alt="codeSTACKr's GitHub Stats" src="https://streak-stats.demolab.com?user=parthosarothi46" />
+
 ### 🛠️ Most Used Languages
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthosarothi46)](https://github.com/anuraghazra/github-readme-stats)
