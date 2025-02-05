@@ -1,4 +1,4 @@
-<img src="https://github.com/parthosarothi46/parthosarothi46/blob/master/heading.png" alt="parthosarothi46 GitHub README header image">
+![parthosarothi46 GitHub README header image](https://raw.githubusercontent.com/parthosarothi46/parthosarothi46/master/heading.png)
 
 # 👋 Hi, I'm [Your Name]
 
